@@ -6,7 +6,7 @@ Hello, my name is Zdeněk and I have a presentation about redesign sports logos.
 I want to speak about three new identites of Czech sports asociations, Czech Hockey, Czech Florball and Czech Volleyball. 
 
 I chose this topic because I am active person and I love sports. I have been playing hockey as a goalkeeper since I was a child.
-
+<h2>Ice Hockey</h2>
 <h3>Slide 3</h3>
 First of all we will look at the logo of Czech Hockey.
 Logo was designed by Go4Gold company, which is focusing on only sport brand logo designs.
