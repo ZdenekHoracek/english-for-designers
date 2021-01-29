@@ -1,8 +1,7 @@
 <h1>Zdeněk Horáček</h1>
 
-<a href="02-intentional-aboutness/case-study.md"> About </a>
-
-Experience
+- [About](02-intentional-aboutness/aboutme.md)
+- [Experience](03-curriculum-vitae/cv.md)
 
 ## Work
 - [Case Study]()
