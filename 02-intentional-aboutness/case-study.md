@@ -5,3 +5,5 @@ I started exploring the websites. I was looking for inspiration in designs of pa
 The members of company liked the vektors and they wanted to use them in the design. I decided to create a cover background from vectors. I also started to focus on the main design. I didn't have much to choose from, so I opened an Adobe sketch and started drawing vector images.
 The design should be playful and clean. For a long time I struggled with the vectors of individual dishes and their placement. In the end, I was inspired by the game of Five in Line - so the design was finally created. I presented the design to the company and the members were excited. Together we fine-tuned all the details and released the design to the printer.
 Currently/nowadays this design is used in a large number of fast food restaurants in the Czech Republic. In the future, we plan to expand the supply to other countries like Slovakia, Poland or Germany, and I'll have to adjust/edit the design for these countries.
+
+![BURGER MOCKUP](https://user-images.githubusercontent.com/73166204/106288456-5ea57080-6248-11eb-9d10-c11cac16b117.jpg)
