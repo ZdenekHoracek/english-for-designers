@@ -2,7 +2,7 @@
 
 - [About](02-intentional-aboutness/aboutme.md)
 - [Experience](03-curriculum-vitae/cv.md)
-##Works
+<h2>Works</h2>
 - [Character & Description](character-&-description/letter.md)
 - [Case Study](02-intentional-aboutness/case-study.md)
 - [Voice and Tone](04-voice-tone/Voice-tone.md)
