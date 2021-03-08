@@ -38,4 +38,21 @@ The logo consists of three elements:
 
 ![Obrázek4](https://user-images.githubusercontent.com/73166204/110373794-30d5f780-8050-11eb-91c3-0a45b607399c.png)
 
+The font used for the company name in the logo is Mic 32 New in bold style. The priority when choosing a logo was to maintain the seriousness and compatibility with the logo.
+
+![Obrázek5](https://user-images.githubusercontent.com/73166204/110374182-a6da5e80-8050-11eb-9e68-3e1a526bd6ad.png)
+
+![logo mockup](https://user-images.githubusercontent.com/73166204/110374408-f1f47180-8050-11eb-9af0-c8defc59a501.jpg)
+___________________________________________________
+<h2>Visual identity</h2>
+ 
+ The graphic element consists of the letter N and forms a sample of the car cooler. This pattern forms the basis for printed matter
+
+![Obrázek7](https://user-images.githubusercontent.com/73166204/110374636-2ff19580-8051-11eb-96b0-8f6b3cbcdf0a.png)
+
+![Uploading Vizuální identita.jpg…]()
+
+
+
+
 
