@@ -2,3 +2,9 @@
 <h1>Kvinto</h1>
 <h2>What is Kvinto?</h2>
 Exclusively engaged in overhaul, manufacture and sale of car radiators, heating, air conditioning, intercoolers and oil coolers for all types of cars and trucks, buses, motorcycles, veterans, agricultural machinery and special construction machinery.
+
+<h2>Old "Logo"</h2>
+To date, this company has had no corporate identity, no logo, promotional materials, etc.
+Even though they have been on the market for 20 years
+
+
