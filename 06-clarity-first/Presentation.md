@@ -26,3 +26,15 @@ I created metaphors
 <li>Heat = flame</li>
 <li>Repairs = tools</li>
 
+<h2>Sketching</h2>
+![Obrázek3](https://user-images.githubusercontent.com/73166204/110373611-f704f100-804f-11eb-881c-f88b465f63dd.png)
+
+<h2>Final</h2>
+The logo consists of three elements:
+<li>Flame – heat</li>
+<li>Snowflake – cold</li>
+<li>Tools - repairs</li>
+
+![Obrázek4](https://user-images.githubusercontent.com/73166204/110373794-30d5f780-8050-11eb-91c3-0a45b607399c.png)
+
+
