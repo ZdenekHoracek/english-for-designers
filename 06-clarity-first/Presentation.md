@@ -14,7 +14,15 @@ Translate: WEB, Intercoolers,production repairs, sale and Air conditioning
 ______________________________________________________________________________
 Here you can see an old business card that the company has been using for over 20 years.
 
-![Obrázek2](https://user-images.githubusercontent.com/73166204/110364245-d20a8100-8043-11eb-8628-79aa25270a97.jpg) 60px
+![Obrázek2](https://user-images.githubusercontent.com/73166204/110364245-d20a8100-8043-11eb-8628-79aa25270a97.jpg)
 
 ______________________________________________________________________________
 Kvinto has never used any promotion in the form of printed materials.
+
+<h2>New Logo</h2>
+I tried to incorporate three elements into the logo. Cold, heat and repairs
+I created metaphors
+Cold = snow
+Heat = flame
+Repairs = tools
+
