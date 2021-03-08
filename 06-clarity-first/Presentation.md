@@ -27,6 +27,7 @@ I created metaphors
 <li>Repairs = tools</li>
 
 <h2>Sketching</h2>
+
 ![Obrázek3](https://user-images.githubusercontent.com/73166204/110373611-f704f100-804f-11eb-881c-f88b465f63dd.png)
 
 <h2>Final</h2>
