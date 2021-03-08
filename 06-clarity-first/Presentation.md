@@ -6,6 +6,6 @@ Exclusively engaged in overhaul, manufacture and sale of car radiators, heating,
 <h2>Old "Logo"</h2>
 To date, this company has had no corporate identity, no logo, promotional materials, etc.
 Even though they have been on the market for 20 years. The only thing the company used was this graphically processed text, which told the customer what the company was focusing on.
-![Obrázek1](https://user-images.githubusercontent.com/73166204/110362754-f6fdf480-8041-11eb-9af2-39dafd5476b9.png)
+![](https://user-images.githubusercontent.com/73166204/110362754-f6fdf480-8041-11eb-9af2-39dafd5476b9.png)
 
 
