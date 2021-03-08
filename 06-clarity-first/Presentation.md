@@ -11,4 +11,6 @@ Even though they have been on the market for 20 years. The only thing the compan
 
 Translate: WEB, Intercoolers,production repairs, sale and Air conditioning
 
+Here you can see an old business card that the company has been using for over 20 years.
+
 ![Obrázek2](https://user-images.githubusercontent.com/73166204/110364245-d20a8100-8043-11eb-8628-79aa25270a97.jpg)
