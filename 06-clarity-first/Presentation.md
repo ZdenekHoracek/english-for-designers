@@ -46,11 +46,41 @@ The font used for the company name in the logo is Mic 32 New in bold style. The 
 ___________________________________________________
 <h2>Visual identity</h2>
  
- The graphic element consists of the letter N and forms a sample of the car cooler. This pattern forms the basis for printed matter
+ The graphic element consists of the letter N and forms a sample of the car cooler. This pattern forms the basis for printed matter. The visual identity is made up of two basic colors, black and yellow. The graphic element acts as a background pattern. The goal was to create a clean and clear design that will be easy to remember. 
+ 
 
 ![Obrázek7](https://user-images.githubusercontent.com/73166204/110374636-2ff19580-8051-11eb-96b0-8f6b3cbcdf0a.png)
 
-![Uploading Vizuální identita.jpg…]()
+![Vizuální identita](https://user-images.githubusercontent.com/73166204/110374890-852da700-8051-11eb-861c-b1771239801a.jpg)
+
+![tiskoviny mock up](https://user-images.githubusercontent.com/73166204/110375013-ae4e3780-8051-11eb-8a4b-7e555c49ad4e.jpg)
+
+ <h2>Business card</h2>
+ 
+ ![Vizitka full mock up](https://user-images.githubusercontent.com/73166204/110376435-78aa4e00-8053-11eb-8bf3-95550c0df88f.jpg)
+
+
+<h2>Application</h2>
+
+![Dvě propisky](https://user-images.githubusercontent.com/73166204/110375755-aba01200-8052-11eb-9a86-067b2a44952d.jpg)
+
+![Flashdisk](https://user-images.githubusercontent.com/73166204/110375817-bce91e80-8052-11eb-80a0-a07e5bda018b.png)
+
+![Hrníčky](https://user-images.githubusercontent.com/73166204/110376086-10f40300-8053-11eb-8e5f-d8f4cf5ba424.jpg)
+
+ <h2>Cars</h2>
+
+![Dodávka](https://user-images.githubusercontent.com/73166204/110376137-20734c00-8053-11eb-8527-69462b326ac9.png)
+
+![osobak mock up](https://user-images.githubusercontent.com/73166204/110376200-31bc5880-8053-11eb-8228-259f464d3968.png)
+
+ <h2>Clothes</h2>
+
+![tričko mock up](https://user-images.githubusercontent.com/73166204/110376236-3bde5700-8053-11eb-8750-8acf283c588e.png)
+
+![kšiltovka mock up](https://user-images.githubusercontent.com/73166204/110376269-4862af80-8053-11eb-94a0-677557259f02.jpg)
+
+
 
 
 
