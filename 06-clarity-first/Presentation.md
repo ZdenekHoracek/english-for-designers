@@ -53,7 +53,8 @@ ___________________________________________________
 
 ![Vizuální identita](https://user-images.githubusercontent.com/73166204/110374890-852da700-8051-11eb-861c-b1771239801a.jpg)
 
-![tiskoviny mock up](https://user-images.githubusercontent.com/73166204/110375013-ae4e3780-8051-11eb-8a4b-7e555c49ad4e.jpg)
+![Final brand mockup](https://user-images.githubusercontent.com/73166204/110376891-09812980-8054-11eb-946b-29275f43075f.jpg)
+
 
  <h2>Business card</h2>
  
