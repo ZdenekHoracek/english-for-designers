@@ -9,4 +9,5 @@ Even though they have been on the market for 20 years. The only thing the compan
 
 ![](https://user-images.githubusercontent.com/73166204/110362754-f6fdf480-8041-11eb-9af2-39dafd5476b9.png)
 
+Translate: WEB, Intercoolers,production repairs, sale and Air conditioning
 
