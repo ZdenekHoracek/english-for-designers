@@ -22,7 +22,7 @@ Kvinto has never used any promotion in the form of printed materials.
 <h2>New Logo</h2>
 I tried to incorporate three elements into the logo. Cold, heat and repairs
 I created metaphors
-Cold = snow
-Heat = flame
-Repairs = tools
+<li>Cold = snow</li>
+<li>Heat = flame</li>
+<li>Repairs = tools</li>
 
