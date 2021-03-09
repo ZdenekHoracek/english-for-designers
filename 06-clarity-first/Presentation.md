@@ -30,6 +30,8 @@ I created metaphors
 <li>Repairs = tools</li>
 
 <h2>Sketching</h2>
+In sketching, I tried to combine elements in different ways to create the most ideal variant. 
+Here you can see my steps in sketching
 
 ![Obrázek3](https://user-images.githubusercontent.com/73166204/110373611-f704f100-804f-11eb-881c-f88b465f63dd.png)
 
@@ -54,17 +56,23 @@ ___________________________________________________
 
 ![Obrázek7](https://user-images.githubusercontent.com/73166204/110374636-2ff19580-8051-11eb-96b0-8f6b3cbcdf0a.png)
 
+Applying visual identity to printed materials
+
 ![Vizuální identita](https://user-images.githubusercontent.com/73166204/110374890-852da700-8051-11eb-861c-b1771239801a.jpg)
+
+
 
 ![Final brand mockup](https://user-images.githubusercontent.com/73166204/110376891-09812980-8054-11eb-946b-29275f43075f.jpg)
 
 
  <h2>Business card</h2>
+ template for business cards
  
  ![Vizitka full mock up](https://user-images.githubusercontent.com/73166204/110376435-78aa4e00-8053-11eb-8bf3-95550c0df88f.jpg)
 
 
 <h2>Application</h2>
+Here is the application for promotional items.
 
 ![Dvě propisky](https://user-images.githubusercontent.com/73166204/110375755-aba01200-8052-11eb-9a86-067b2a44952d.jpg)
 
