@@ -1,4 +1,4 @@
-<h1>Corporate identity</<h1>
+<h1>Corporate identity</h1>
  My thesis is on the topic of corporate identity and I do a visual identity for a small company in the Czech Republic, for Kvinto
  <h2>Kvinto</h2>
 
