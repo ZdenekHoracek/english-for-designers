@@ -11,10 +11,12 @@ The content of this bachelor thesis is about the definition and creation of corp
 </details>
 
 <h2>Voice & tone</h2>
+
 <li>Voice:</li>  
 <li>Tone:</li>
 
 <h2>Outline</h2>
+
 - 1. Manufacture and repair of car coolers.
 - 2. Focus on veterans.
 - 3. Car air conditioning repair.
@@ -22,9 +24,11 @@ The content of this bachelor thesis is about the definition and creation of corp
 - 5. The company has been on the market for almost 30 years and has no corporate identity.
 
 <h2>Notes</h2>
+
 - The company now has no logo or visual identity
 
 New logo and visual identity should:
+
 - Raise awareness of the company
 - Attract new customers
 - Differentiate yourself from the competition
