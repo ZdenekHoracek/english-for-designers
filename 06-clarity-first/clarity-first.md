@@ -34,9 +34,12 @@ New logo and visual identity should:
 - Differentiate yourself from the competition
 
 <h2>Key words</h2>
+
 - <b>Corporate identity</b>
   - A summary of how the company presents itself.
+ 
 - <b>Visual identity</b>
   - A specific combination of all visual elements, such as logo, color, typography and graphic elements. Based on a predetermined system.
+
 - <b>Logo</b>
   - A logotype that represents a company
