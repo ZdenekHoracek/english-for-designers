@@ -17,11 +17,11 @@ The content of this bachelor thesis is about the definition and creation of corp
 
 <h2>Outline</h2>
 
-- 1. Manufacture and repair of car coolers.
-- 2. Focus on veterans.
-- 3. Car air conditioning repair.
-- 4. The target group includes everyone who needs to repair the radiator. People aged 18 to 99+
-- 5. The company has been on the market for almost 30 years and has no corporate identity.
+ 1. Manufacture and repair of car coolers.
+ 2. Focus on veterans.
+ 3. Car air conditioning repair.
+ 4. The target group includes everyone who needs to repair the radiator. People aged 18 to 99+
+ 5. The company has been on the market for almost 30 years and has no corporate identity.
 
 <h2>Notes</h2>
 
