@@ -15,9 +15,24 @@ The content of this bachelor thesis is about the definition and creation of corp
 <li>Tone:</li>
 
 <h2>Outline</h2>
-1.
-2.
-3.
-4.
-5.
-6.
+1. Manufacture and repair of car coolers.
+2. Focus on veterans.
+3. Car air conditioning repair.
+4. The target group includes everyone who needs to repair the radiator. People aged 18 to 99+
+5. The company has been on the market for almost 30 years and has no corporate identity.
+
+<h2>Notes</h2>
+- The company now has no logo or visual identity
+
+New logo and visual identity should:
+- Raise awareness of the company
+- Attract new customers
+- Differentiate yourself from the competition
+
+<h2>Key words</h2>
+- **Corporate identity**
+  - A summary of how the company presents itself.
+- **Visual identity**
+  - A specific combination of all visual elements, such as logo, color, typography and graphic elements. Based on a predetermined system.
+- **Logo**
+  - A logotype that represents a company
