@@ -43,3 +43,12 @@ New logo and visual identity should:
 
 - <b>Logo</b>
   - A logotype that represents a company
+
+<h2>References</h2>
+
+<!-- Consider reference style for textual works, data sets, and audiovisual and online media. -->
+
+- [Prutex](http://www.prutex.cz/)
+- [Opravy autochladičů Praha](https://www.opravy-chladicu.cz/)
+- [Chladiče Habrman](http://www.chladicehabrman.com/)
+```
