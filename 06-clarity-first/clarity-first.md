@@ -12,8 +12,8 @@ The content of this bachelor thesis is about the definition and creation of corp
 
 <h2>Voice & tone</h2>
 
-<li><b>Voice:</b></li>  
-<li><b>Tone:</b></li>
+<li><b>Voice:</b></li>confident, professional, quality
+<li><b>Tone:</b></li>formal, friendly, ungrudging
 
 <h2>Outline</h2>
 
