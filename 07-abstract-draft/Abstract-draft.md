@@ -1,1 +1,4 @@
-
+<h1>Abstarct draft</h1>
+The content of this bachelor thesis is about the definition and creation of corporate identity. The content of the theoretical part is to gain knowledge and understanding of the topic on the basis of the studied literature and other available sources. The practical part uses the studied knowledge from the theoretical part and their application to a real corporate identity project for the company Kvinto, which deals with the repair and manufacture of car coolers and air conditioners. The author creates all elements of a unified visual identity, for example the logo, graphic elements or promotional printed matter etc. The aim of this work is to create a complete corporate design for the company Kvinto.
+<h2>Key words</h2>
+corporate identity, logo design, visual identity, company, firm, graphic design, brand.
