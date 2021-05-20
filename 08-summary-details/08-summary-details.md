@@ -97,8 +97,10 @@ Here is the application for promotional items.
 
 ![kšiltovka mock up](https://user-images.githubusercontent.com/73166204/110376269-4862af80-8053-11eb-94a0-677557259f02.jpg)
 
-
-
+<h2>References</h2>
+VYSEKALOVÁ, Jitka, Jiří MIKEŠ a Jan BINAR. Image a firemní identita: 2., aktuali-zované a rozšířené vydání. 2020. Praha: Grada Publishing, 2020. ISBN 978-80-271-1596-
+KAFKA, Ondřej a Michal KOTYZA. Logo & corporate identity. 3., přeprac. vyd. Praha: Kafka design, c2014. ISBN 978-80-260-6771-9.
+KAPLANOVÁ, Marie. Moderní polygrafie. Praha: Svaz polygrafických podnikatelů, 2009. ISBN 9788025442302
 
 
 
