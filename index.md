@@ -15,4 +15,4 @@
 - [Summary details](08-summary-details/08-summary-details.md)
 - [Presentation](09-presentation/presentation.pdf)
 
-[Home](https://github.com/ZdenekHoracek)
+<p>[Home](https://github.com/ZdenekHoracek)</p>
