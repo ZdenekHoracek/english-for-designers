@@ -14,4 +14,5 @@
 - [Abstract draft](07-abstract-draft/07-abstract-draft.md)
 - [Summary details](08-summary-details/08-summary-details.md)
 - [Presentation](09-presentation/presentation.pdf)
+
 [Home](https://github.com/ZdenekHoracek)
